@@ -17,4 +17,4 @@ Turn scattered signals from across inputs (jira, slack, confluence, NPS) into cl
 
 ## Format
 
-use a structured md file. cite sources for each claim and keep it within a one page document. include visuals when useful to illustrate trends or changes where useful. Stay simple and concise, do not ramble to fill the page.
+use a structured md file. cite sources for each claim and keep it within a one page. include visuals when useful to illustrate trends or changes where useful. Stay simple and concise, do not ramble to fill the page.
