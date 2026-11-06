@@ -10,7 +10,7 @@ _____
 
 ## What it demonstrates
 
-_time savings compiling and reviewing data from across several tools and data sets that can quickly identify, track and measure trends over time (week over week and month over month)._
+_a quick way to visualize what i am asking for and validate the potential value in time savings compiling and reviewing data from across several tools and data sets that can quickly identify, track and measure trends over time (week over week and month over month)._
 
 _____
 
